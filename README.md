@@ -1,121 +1,116 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=1000&color=F472B6&center=true&vCenter=true&width=720&lines=%E3%82%A8%E3%83%94%E3%83%BB%E3%83%AD%E3%83%BC+%2F%2F+Epi+Lo;Full-Stack+Engineer+%E2%80%A2+CISA;debug+machine.+Hong+Kong." alt="" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0a2e,60:ff2a6d,100:00f0ff&height=200&section=header&text=%E3%82%A8%E3%83%94&fontSize=90&fontColor=ffffff&fontAlignY=35&desc=%E2%94%80%E2%94%80%E2%94%80+E+P+I+-+1+1+2+0+%E2%94%80%E2%94%80%E2%94%80&descSize=14&descColor=00f0ff&descAlignY=60&animation=fadeIn&stroke=ff2a6d&strokeWidth=1" width="100%" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=20,11,12,6&height=14&section=header" width="100%" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=700&color=FF2A6D&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%3E+initializing+epi-1120...;%3E+loading+TypeScript+%E2%9C%93+React+%E2%9C%93+Security+%E2%9C%93;%3E+CISA+verified.+deploying+to+production.;%3E+system+ready." alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=500&size=15&duration=4000&pause=1200&color=9CA3AF&center=true&vCenter=true&repeat=true&width=600&height=25&lines=Full-Stack+Engineer+%C2%B7+Hong+Kong+%F0%9F%87%AD%F0%9F%87%B0+%C2%B7+CISA+Certified;%E6%A1%9C%E3%81%AE%E8%8A%B1%E3%81%AE%E8%90%BD%E3%81%A1%E3%82%8B%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%81%AF%E7%A7%92%E9%80%9F5%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB;%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F%E3%80%81%E5%A3%8A%E3%81%99%E3%80%81%E5%AE%88%E3%82%8B%E3%80%81%E5%B1%8A%E3%81%91%E3%82%8B%E3%80%82" alt="Typing SVG" /></a>
 
 <br/>
 
-**Full-Stack Engineer** ⋅ **CISA-Certified** ⋅ **Hong Kong · UTC+8**  
-<sub>中文 / English · remote-friendly</sub>
-
-<br/>
-
-[![portfolio](https://img.shields.io/badge/PORTFOLIO-certlyforge.web.app-0F172A?style=for-the-badge&labelColor=F472B6)](https://certlyforge.web.app/) [![github](https://img.shields.io/badge/GITHUB-@Epi--1120-0F172A?style=for-the-badge&labelColor=06B6D4&logo=github&logoColor=white)](https://github.com/Epi-1120) [![email](https://img.shields.io/badge/EMAIL-contact-0F172A?style=for-the-badge&labelColor=8B5CF6)](mailto:your.email@example.com)
-
-<br/>
-
-<img src="https://img.shields.io/badge/●_Open_to_Work-Full--time_%26_Contract-22C55E?style=for-the-badge&labelColor=0F172A" />
+![CISA](https://img.shields.io/badge/CISA-PASSED-ff2a6d?style=flat-square&labelColor=0d1117)
+![Security+](https://img.shields.io/badge/Security+-IN%20PROGRESS-00f0ff?style=flat-square&labelColor=0d1117)
+![CISM](https://img.shields.io/badge/CISM-PLANNED-6B7280?style=flat-square&labelColor=0d1117)
 
 </div>
 
 <br/>
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▌ 01 ·  現在地  //  NOW
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<table>
+<tr>
+<td width="55%" valign="top">
 
-Maintaining **[CertlyForge](https://github.com/Epi-1120/CertlyForge)** — a free, open-source certification exam prep platform covering **CISA · CISM · Security+ · CCNA · IELTS**. 1000+ questions, mock exams, flashcards, multilingual, in production.
+I code to lofi & anime OST. I debug to metal.
 
-Preparing for **CompTIA Security+**. Shipping MCP tooling on the side. Still hunting bugs. Still `debug machine`.
+Based in **Hong Kong 🇭🇰** — full-stack engineer by day, security nerd by night. **CISA certified**, currently grinding **Security+**.
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▌ 02 ·  作品  //  WORKS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+Built [**CertlyForge**](https://certlyforge.web.app) — a free, open-source cert exam platform with 1000+ questions. No paywall, no ads. People from around the world actually use it.
 
-▸ **[CertlyForge](https://github.com/Epi-1120/CertlyForge)** — Open-source certification exam platform. 1000+ questions across CISA / CISM / Security+ / CCNA / IELTS. Multilingual UI, mock exams, spaced review. Live at [certlyforge.web.app](https://certlyforge.web.app/).  
-<sub>`TypeScript` · `Next.js` · `Firebase` · `Tailwind` · `i18n`</sub> &nbsp; [![stars](https://img.shields.io/github/stars/Epi-1120/CertlyForge?style=flat-square&color=F472B6&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Epi-1120/CertlyForge)
-
-▸ **[create-mcp-server-kit](https://github.com/Epi-1120/create-mcp-server-kit)** — Single-command scaffolder for Model Context Protocol servers. Shipped in the early MCP ecosystem; actively maintained.  
-<sub>`JavaScript` · `Node.js` · `MCP`</sub> &nbsp; [![stars](https://img.shields.io/github/stars/Epi-1120/create-mcp-server-kit?style=flat-square&color=06B6D4&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Epi-1120/create-mcp-server-kit)
-
-▸ **[fake-coding](https://github.com/Epi-1120/fake-coding)** — A VS Code parody. Looks like productivity, isn't. Released for sport.  
-<sub>`JavaScript`</sub>
-
-▸ **[QQMUSIC-clone](https://github.com/Epi-1120/-QQMUSIC-)** — Front-end teaching demo; a QQ Music UI clone for students studying layout.  
-<sub>`HTML` · `CSS`</sub>
+Main stack: **TypeScript / React / Next.js** for shipping, **Python & C++** for CTF nights. I like building things that other people find useful.
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▌ 03 ·  装備  //  LOADOUT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ Now Playing ▶ Nujabes - Feather
 ```
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-F472B6?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=white)
+</td>
+<td width="45%" valign="top">
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▌ 04 ·  資格  //  CERTIFIED
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
-▸ **CISA** — Certified Information Systems Auditor · ISACA · **2026**  
-▸ **CompTIA Security+** — in progress · exam scheduled  
-▸ **CISM** — planned
+</td>
+</tr>
+</table>
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▌ 05 ·  統計  //  TELEMETRY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+```diff
++ ONLINE — shipping code
+- last time I slept 6+ hours? can't remember
+! Security+ exam countdown...
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Epi-1120&show_icons=true&hide=issues&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Epi-1120&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epi-1120&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</p>
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▌ 06 ·  連絡先  //  CONTACT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-Open to **full-time or contract**. Most relevant roles:
-
-▸ Full-stack TypeScript / Next.js product engineering  
-▸ Developer tooling — CLIs, MCP servers, internal platforms  
-▸ EdTech / learning products  
-▸ InfoSec-adjacent positions *(CISA certified · Security+ in progress)*
-
-Hong Kong · UTC+8 · remote-friendly · 中文 / English
-
-<p>
-  <a href="https://certlyforge.web.app/"><img src="https://img.shields.io/badge/▶_PORTFOLIO-F472B6?style=for-the-badge&labelColor=0F172A&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/▶_EMAIL-8B5CF6?style=for-the-badge&labelColor=0F172A&logo=gmail&logoColor=white" /></a>
-</p>
-
-<br/>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,33:8B5CF6,66:06B6D4,100:22C55E&height=100&section=footer" width="100%" />
-  <sub>EOF · April 2026</sub>
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,cpp,c,firebase,docker,linux,git,postgres,vercel,arduino&perline=8&theme=dark" />
+
 </div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Epi-1120/CertlyForge">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Epi-1120&repo=CertlyForge&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff2a6d&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Epi-1120/create-mcp-server-kit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Epi-1120&repo=create-mcp-server-kit&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff2a6d&text_color=c9d1d9" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Epi-1120&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff2a6d&text_color=c9d1d9&ring_color=ff2a6d&rank_icon=percentile" height="175" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Epi-1120&hide_border=true&background=0D1117&ring=ff2a6d&fire=ff2a6d&currStreakLabel=00f0ff&sideLabels=c9d1d9&dates=6B7280&currStreakNum=E5E7EB&sideNums=E5E7EB&stroke=00f0ff20" height="175" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Epi-1120&hide_border=true&bg_color=0d1117&color=00f0ff&line=ff2a6d&point=00f0ff&area=true&area_color=ff2a6d20" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Epi-1120"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/epi-lo-753815278/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00f0ff" /></a>
+&nbsp;
+<a href="mailto:5587kita@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=ff2a6d" /></a>
+&nbsp;
+<a href="https://certlyforge.web.app"><img src="https://img.shields.io/badge/CertlyForge-000?style=for-the-badge&logo=googlechrome&logoColor=00f0ff" /></a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+
+<br/>
+
+```
+「 when Stack Overflow has no answers — that's when it actually begins. 」
+```
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Epi-1120&style=flat-square&color=ff2a6d" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0a2e,60:ff2a6d,100:00f0ff&height=100&section=footer" width="100%"/>
