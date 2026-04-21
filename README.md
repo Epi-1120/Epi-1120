@@ -81,7 +81,7 @@ Main stack: **TypeScript / React / Next.js** for shipping, **Python & C++** for 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Epi-1120&hide_border=true&bg_color=0d1117&color=00f0ff&line=ff2a6d&point=00f0ff&area=true&area_color=ff2a6d20" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Epi-1120&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
 
 </div>
 
