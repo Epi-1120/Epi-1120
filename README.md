@@ -81,7 +81,6 @@ Main stack: **TypeScript / React / Next.js** for shipping, **Python & C++** for 
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Epi-1120&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
 
 </div>
 
