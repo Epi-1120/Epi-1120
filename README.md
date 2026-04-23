@@ -26,7 +26,7 @@ I code to lofi & anime OST. I debug to metal.
 
 Based in **Hong Kong 🇭🇰** — full-stack engineer by day, security nerd by night. **CISA exam passed** (certification pending), currently grinding **Security+**.
 
-Built [**CertlyForge**](https://certlyforge.web.app) — a free, open-source cert exam platform with 1000+ questions. No paywall, no ads. People from around the world actually use it.
+Built [**CertlyForge**](https://certlyforge.web.app) — a free, open-source cert exam platform with 200+ hand-written questions across CISA / CISM / Security+ / CCNA / IELTS, plus timed mocks and flashcards. No paywall, no ads.
 
 Main stack: **TypeScript / React / Next.js** for shipping, **Python & C++** for CTF nights. I like building things that other people find useful.
 
@@ -42,14 +42,6 @@ Main stack: **TypeScript / React / Next.js** for shipping, **Python & C++** for 
 </td>
 </tr>
 </table>
-
----
-
-```diff
-+ ONLINE — shipping code
-- last time I slept 6+ hours? can't remember
-! Security+ exam countdown...
-```
 
 ---
 
