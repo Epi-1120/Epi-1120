@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=700&color=FF2A6D&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%3E+initializing+epi-1120...;%3E+loading+TypeScript+%E2%9C%93+React+%E2%9C%93+Security+%E2%9C%93;%3E+CISA+exam+passed.+deploying+to+production.;%3E+system+ready." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=700&color=FF2A6D&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%3E+full-stack+engineer+%C2%B7+hong+kong;%3E+TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Firebase;%3E+CISA+exam+passed+%C2%B7+Security%2B+in+progress" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=500&size=15&duration=4000&pause=1200&color=9CA3AF&center=true&vCenter=true&repeat=true&width=600&height=25&lines=Full-Stack+Engineer+%C2%B7+Hong+Kong+%F0%9F%87%AD%F0%9F%87%B0+%C2%B7+CISA+Exam+Passed;%E6%A1%9C%E3%81%AE%E8%8A%B1%E3%81%AE%E8%90%BD%E3%81%A1%E3%82%8B%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%81%AF%E7%A7%92%E9%80%9F5%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB;%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F%E3%80%81%E5%A3%8A%E3%81%99%E3%80%81%E5%AE%88%E3%82%8B%E3%80%81%E5%B1%8A%E3%81%91%E3%82%8B%E3%80%82" alt="Typing SVG" /></a>
 
