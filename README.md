@@ -102,10 +102,6 @@ Main stack: **TypeScript / React / Next.js** for shipping, **Python & C++** for 
 
 <img src="https://komarev.com/ghpvc/?username=Epi-1120&style=flat-square&color=ff2a6d" />
 
-<br/><br/>
-
-<sub>Old inactive account from 2022: <a href="https://github.com/czuse">@czuse</a></sub>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0a2e,60:ff2a6d,100:00f0ff&height=100&section=footer" width="100%"/>
